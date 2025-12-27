@@ -1,4 +1,4 @@
-# 🎓 Campus Connect
+# Campus Connect
 
 **Campus Connect** is a full-featured social platform built for university students using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
 It allows students to **connect, post updates, join discussions, and collaborate** on campus activities — similar to Reddit, but tailored for your university community.
